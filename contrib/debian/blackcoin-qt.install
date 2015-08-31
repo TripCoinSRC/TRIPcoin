@@ -1,0 +1,5 @@
+TRIPcoin-qt usr/bin
+share/pixmaps/bitcoin32.xpm usr/share/pixmaps
+share/pixmaps/bitcoin80.xpm usr/share/pixmaps
+debian/TRIPcoin-qt.desktop usr/share/applications
+debian/TRIPcoin-qt.protocol usr/share/kde4/services/

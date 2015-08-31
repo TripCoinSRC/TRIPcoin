@@ -1,0 +1,2 @@
+debian/bin/TRIPcoind usr/bin
+src/TRIPcoind usr/lib/TRIPcoin

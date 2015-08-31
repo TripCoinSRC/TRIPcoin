@@ -1,0 +1,7 @@
+# List of fixed seed nodes for testnet
+
+91.121.88.15
+94.23.249.166
+
+[2001:41d0:1:8d0f::]
+[2001:41d0:2:7ca6::]
